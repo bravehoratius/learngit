@@ -4,6 +4,7 @@ ehthumbs.db
 Desktop.ini
 
 # Python:
+__pycache__
 *.py[cod]
 *.so
 *.egg
@@ -12,4 +13,10 @@ dist
 build
 
 # My configurations:
-test.txt
+data_input
+data_output
+images
+backups
+errors
+subprograms
+todo.txt
